@@ -1,0 +1,9 @@
+# *
+User-agent: *
+Allow: /
+
+# Host
+Host: https://pizzatool.org
+
+# Sitemaps
+Sitemap: https://pizzatool.org/sitemap.xml
