@@ -64,13 +64,13 @@ export default function Hero({ locale, CTALocale }) {
 	
 	const handleNavClick = (type) => {
 		if(type == 1){  //windows
-			window.open('https://github.com/PizzaTool/pizzatoolwebsite/releases/')
+			window.open('https://github.com/Nilin1/pizzatool/releases/')
 		}else if(type == 2){  //Linux
-			window.open('https://github.com/PizzaTool/pizzatoolwebsite/releases/')
+			window.open('https://github.com/Nilin1/pizzatool/releases/')
 		}else if(type == 3){  //Mac Intel
-			window.open('https://github.com/PizzaTool/pizzatoolwebsite/releases/')
+			window.open('https://github.com/Nilin1/pizzatool/releases/')
 		}else if(type == 4){  //Mac M
-			window.open('https://github.com/PizzaTool/pizzatoolwebsite/releases/')
+			window.open('https://github.com/Nilin1/pizzatool/releases/')
 		}
 	}
 
