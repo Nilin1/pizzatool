@@ -2,7 +2,7 @@
 const nextConfig = {
 	// GitHub Pages 部署需要静态导出
 	output: 'export',
-	// basePath: '/pizzatoolwebsite',  // 使用自定义域名时不需要
+    basePath: '/pizzatool',  // 使用自定义域名时不需要
 	images: {
 		unoptimized: true,
 		remotePatterns: [
